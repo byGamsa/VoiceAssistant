@@ -1,0 +1,20 @@
+{"intents":  [
+  {"tag":  "todo",
+  "patterns":  ["todo", "erstelle eine notiz"],
+  "responses":  ["todo"]},
+  {"tag":  "greeting",
+  "patterns":  ["hey", "hallo"],
+  "responses":  ["Hello"]},
+  {"tag":  "fine",
+  "patterns":  ["gut und dir"],
+  "responses":  ["Hello"]},
+  {"tag":  "discord",
+  "patterns":  ["öffne discord"],
+  "responses":  ["dc"]},
+  {"tag":  "chrome",
+  "patterns":  ["öffne chrome"],
+  "responses":  ["c"]},
+  {"tag":  "weather",
+  "patterns":  ["wetter","wie ist das wetter","temperatur","grad","regnet es","regen","sonne"],
+  "responses":  ["wheater"]}
+]}
